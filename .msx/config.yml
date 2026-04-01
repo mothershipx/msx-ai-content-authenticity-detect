@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: AI Content Authenticity & Detection Tools
+slug: ai-content-authenticity-detect
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: ai-content-authenticity-detect.msx.dev
