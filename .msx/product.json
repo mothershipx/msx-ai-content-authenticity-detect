@@ -1,0 +1,36 @@
+{
+  "id": "4fb7c916-98bb-4e5f-84f9-d8e790f1666c",
+  "name": "AI Content Authenticity & Detection Tools",
+  "slug": "ai-content-authenticity-detect",
+  "category": "ai",
+  "score": 88,
+  "description": "The proliferation of AI-generated content and images creates a critical need for reliable detection tools, yet current solutions are prone to errors (false positives, difficulty identifying subtle manipulations). Users and institutions struggle to discern authentic human-created content from AI-produced material, leading to frustration and real-world harm.",
+  "pain_points": [
+    "Unreliable AI detection tools with high false positives.",
+    "Struggle to distinguish human vs. AI-generated content.",
+    "Lack of transparency and explainability in current AI detectors.",
+    "Erosion of trust in online content authenticity.",
+    "Real-world harm from misidentified AI content (e.g., academic integrity)."
+  ],
+  "market_size": "$4.5B",
+  "tech_stack": [
+    "Custom Microcontroller with Secure Enclave (e.g., ARM TrustZone compatible)",
+    "Biometric/Haptic Sensors (integrated into device for input capture)",
+    "Cryptographic Libraries (e.g., OpenSSL, Libsodium for hashing/signing)",
+    "Distributed Ledger Technology (DLT) or Blockchain (e.g., Hyperledger Fabric for public verification records)",
+    "Hardware Design & Manufacturing (PCBA, secure enclosure design)"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "name": "reddit",
+      "trend": "484 upvotes",
+      "source": "reddit",
+      "mentions": 0
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-ai-content-authenticity-detect/",
+  "repo_url": "https://github.com/mothershipx/msx-ai-content-authenticity-detect",
+  "created_at": "2026-04-01T07:18:01.476Z",
+  "pipeline_version": "1.0.0"
+}
